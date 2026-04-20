@@ -44,5 +44,4 @@ From curiosity to creation - and back again. I build things at the intersection 
 ## 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-p-p/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/gphilipose)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:ginaphilipose@gmail.com)
