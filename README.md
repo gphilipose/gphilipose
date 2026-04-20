@@ -2,7 +2,7 @@
 
 **Computer Engineer & Computer Scientist · Seattle, WA**
 
-From curiosity to creation — and back again. I build things at the intersection of ML, embedded systems, and data science. Dual-degree CS&E + Data Science student at Seattle University.
+From curiosity to creation - and back again. I build things at the intersection of ML, embedded systems, and data science. Dual-degree CS&E + Data Science student at Seattle University.
 
 ---
 
