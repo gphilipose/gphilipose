@@ -23,13 +23,10 @@ From curiosity to creation - and back again. I build things at the intersection 
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [NASA Psyche Mission Rover](https://github.com/gphilipose) | Terrain-traversing rover with ML-based path optimization, RPLiDAR integration, and onboard computation | Python, Arduino C, LiDAR, Jetson Nano |
 | [Seattle Crime Spatial Prediction](https://github.com/gphilipose/Seattle-Crime-on-the-Dime) | Trained RF, Naïve Bayes, and KNN models on 1M+ records to predict crime locations from partial reports | Python, Scikit-learn, Pandas |
 | [QKD Simulation](https://gphilipose.github.io/Quantum-Key-Distribution-Visual-Simulations/) | Interactive BB84 quantum key distribution protocol simulation with eavesdropping visualization | HTML, CSS, JavaScript |
 | [SUHelp](https://gphilipose.github.io/SUHelp/) | Student resource hub for Seattle University with a database-backed review system | HTML, PHP, JavaScript, SQL |
 | [Chord Transposer](https://gphilipose.github.io/chords/) | Web app to transpose song chords into any key | HTML, CSS, JavaScript |
-| [Simulations & Algorithms](https://github.com/gphilipose) | C++ data structures, sorting algorithms, graph traversal, and a COVID-19 tracker over 2M WHO records | C++ |
-
 ---
 
 ## 📊 GitHub Stats
